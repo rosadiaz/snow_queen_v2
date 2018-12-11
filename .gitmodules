@@ -1,0 +1,6 @@
+[submodule "react"]
+	path = react
+	url = git@github.com:rosadiaz/snow_queen_v2_react.git
+[submodule "rails"]
+	path = rails
+	url = git@github.com:rosadiaz/snow_queen_v2_rails.git
